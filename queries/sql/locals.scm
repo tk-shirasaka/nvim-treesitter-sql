@@ -1,7 +1,9 @@
 ; Scope
 
 [
-  (subquery)
+  (select_statement)
+  (update_statement)
+  (insert_statement)
 ] @scope
 
 

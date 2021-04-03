@@ -22,6 +22,8 @@
   "GROUP"
   "HAVING"
   "IN"
+  "INSERT"
+  "INTO"
   "INNER"
   "JOIN"
   "LEFT"
@@ -35,6 +37,7 @@
   "SET"
   "TOP"
   "UPDATE"
+  "VALUES"
   "WHERE"
 ] @keyword
 

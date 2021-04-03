@@ -1,7 +1,6 @@
 [
   (clause_body)
   (subquery)
-  (subcondition)
 ] @indent
 
 [
