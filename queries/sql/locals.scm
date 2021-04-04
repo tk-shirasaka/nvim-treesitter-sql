@@ -1,9 +1,12 @@
 ; Scope
 
 [
+  (create_statement)
+  (drop_statement)
   (select_statement)
   (update_statement)
   (insert_statement)
+  (delete_statement)
 ] @scope
 
 

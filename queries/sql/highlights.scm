@@ -8,6 +8,7 @@
 (symbole_definition
   alias: (identifier) @constant
 )
+("*" @constant)
 
 (function_call_expression
   function: (identifier) @function.builtin
@@ -17,7 +18,11 @@
   "AS"
   "ASC"
   "BY"
+  "CREATE"
+  "DATABASE"
+  "DELETE"
   "DESC"
+  "DROP"
   "FROM"
   "GROUP"
   "HAVING"
@@ -74,7 +79,6 @@
   "+"
   "-"
   "/"
-  "*"
   "%"
   "&"
   "|"
