@@ -10,7 +10,8 @@ function M.init()
       files = { "src/parser.c" },
       branch = "main"
     },
-    maintainers = {"@tk-shirasaka"}
+    used_by = {"mysql"},
+    maintainers = {"@tk-shirasaka"},
   }
 
   if not parsers.has_parser("sql") then
